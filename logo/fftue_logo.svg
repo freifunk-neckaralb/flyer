@@ -14,7 +14,10 @@
    preserveAspectRatio="none"
    id="svg2"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="fftue_logo.svg">
+   sodipodi:docname="fftue_logo.svg"
+   inkscape:export-filename="C:\Users\hp\github\flyer\logo\fftue_logo.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata50">
     <rdf:RDF>
@@ -23,7 +26,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,12 +46,12 @@
      id="namedview46"
      showgrid="false"
      inkscape:zoom="3.6023672"
-     inkscape:cx="106.84891"
+     inkscape:cx="101.99099"
      inkscape:cy="109.90973"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="text4814"
+     inkscape:current-layer="g20"
      showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
